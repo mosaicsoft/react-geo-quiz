@@ -1,0 +1,85 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Geography",
+      "question": "Which of these is NOT an Australian state or territory?",
+      "correct_answer": "Alberta",
+      "incorrect_answers": ["New South Wales", "Victoria", "Queensland"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Geography",
+      "question": "What is the name of New Zealand&#039;s indigenous people?",
+      "correct_answer": "Maori",
+      "incorrect_answers": ["Vikings", "Polynesians", "Samoans"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Geography",
+      "question": "What is the 15th letter of the Greek alphabet?",
+      "correct_answer": "Omicron (&Omicron;)",
+      "incorrect_answers": ["Sigma (&Sigma;)", "Pi (&Pi;)", "Nu (&Nu;)"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Geography",
+      "question": "Which of the following Arab countries does NOT have a flag containing only Pan-Arab colours?",
+      "correct_answer": "Qatar",
+      "incorrect_answers": ["Kuwait", "United Arab Emirates", "Jordan"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Geography",
+      "question": "What is the official language of Costa Rica?",
+      "correct_answer": "Spanish",
+      "incorrect_answers": ["English", "Portuguese", "Creole"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Geography",
+      "question": "Which US state has the highest population?",
+      "correct_answer": "California",
+      "incorrect_answers": ["New York", "Texas", "Florida"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Geography",
+      "question": "How many countries does the United States share a land border with?",
+      "correct_answer": "2",
+      "incorrect_answers": ["1", "3", "4"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Geography",
+      "question": "How many stars are featured on New Zealand&#039;s flag?",
+      "correct_answer": "4",
+      "incorrect_answers": ["5", "2", "0"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Geography",
+      "question": "What country has a horizontal bicolor red and white flag?",
+      "correct_answer": "Monaco",
+      "incorrect_answers": ["Bahrain", "Malta", "Liechenstein"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Geography",
+      "question": "What is the capital of the American state of Arizona?",
+      "correct_answer": "Phoenix",
+      "incorrect_answers": ["Montgomery", "Tallahassee", "Raleigh"]
+    }
+  ]
+}
